@@ -1,0 +1,8 @@
+winamp
+putty
+kodi
+cura
+chrome
+fusion360
+vlc
+notepad++
